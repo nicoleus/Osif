@@ -77,7 +77,7 @@ def show_program():
     Name       OSIF 'Open Source Information Facebook'
     CodeName   Nicoleus Sitorus
     version    full version
-    Date       16/05/2018 09:35:12
+    Date       16/05/2019 09:35:12
     Team       SAMOSIR CYBER TEAM
     Email      adysitorusa7@gmail.com
     Facebook   Nicoleus Sitorus
